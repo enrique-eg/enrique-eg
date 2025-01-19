@@ -4,7 +4,7 @@
 - 🎓 Estudiante de Ingeniería Informática.
 
 ## 🚀 Habilidades
-- **Lenguajes:** ![Python](https://img.shields.io/badge/-Python-blue) ![C++](https://img.shields.io/badge/-C++-green)
+- **Lenguajes:** ![Python](https://img.shields.io/badge/-Python-blue) ![C++](https://img.shields.io/badge/-C++-green) ![Java](https://img.shields.io/badge/-Java-red)
 
 ## 📈 Estadísticas de GitHub
 
