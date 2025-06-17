@@ -1,15 +1,26 @@
-# 👋 Hola, soy Enrique
+# 👋 ¡Hola! Soy Enrique Espino
 
-## 💼 Sobre Mí
-- 🎓 Estudiante de Ingeniería Informática.
+🎓 Estudiante de Ingeniería Informática en la Universidad de Las Palmas de Gran Canaria (ULPGC), actualmente cursando el cuarto año. Apasionado por el desarrollo de software, tanto en el frontend como en el backend, con interés constante en aprender nuevas tecnologías y construir soluciones útiles.
 
-## 🚀 Habilidades
-- **Lenguajes:** ![Python](https://img.shields.io/badge/-Python-blue) ![C++](https://img.shields.io/badge/-C++-green) ![Java](https://img.shields.io/badge/-Java-red)
+## 💻 ¿Qué encontrarás en mi GitHub?
 
-## 📈 Estadísticas de GitHub
+- Proyectos académicos desarrollados durante mi formación universitaria  
+- Proyectos personales donde experimento con nuevas tecnologías  
+- Ejercicios prácticos y pruebas de conceptos
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=enrique-eg&show_icons=true&theme=radical)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=enrique-eg&layout=compact&theme=radical)
+## 🛠️ Tecnologías que uso con frecuencia
+
+- **Lenguajes:** Python, Java, C, C++, JavaScript, TypeScript  
+- **Frameworks:** Angular, React, Node.js, Ionic  
+- **Herramientas:** Git, Visual Studio, WebStorm, PyCharm, IntelliJ, RStudio  
+
+## 🌐 Puedes encontrarme también en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/enrique-espino-gonz%C3%A1lez-07b42133a/)
+
+---
+
+🚀 Siempre con ganas de seguir aprendiendo y colaborando en nuevos proyectos.
 
 <!---
 enrique-eg/enrique-eg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
